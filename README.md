@@ -24,6 +24,9 @@
   &emsp;🔸 Provides clear feedback for invalid inputs or errors, such as trying to remove non-existent items.<br><br>
 </div>
 
+<h2><em></en>✨ Purpose / Inspiration ✨</em></h2>
+&emsp;This projects inspiration for being created was 
+
 <h2><em>⚙️ How it works ⚙️</em></h2>
 
 &emsp;To start off, I used the JavaFX library to design the graphical user interface (GUI). The application displays a text area listing current tasks and two buttons, "Add" and "Remove". Clicking the "Add" button opens an input dialog where the user can type a task. Once submitted, the task is added to the list, displayed in the text area, and saved to a file named "toDoList.txt". Clicking the "Remove" button prompts the user to enter the exact task they want to delete. If the task exists, it is removed from the list, and the updated list is displayed and saved.  

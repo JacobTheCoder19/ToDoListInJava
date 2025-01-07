@@ -25,7 +25,7 @@
 </div>
 
 <h2><em></en>✨ Purpose / Inspiration ✨</em></h2>
-&emsp;This projects inspiration for being created was 
+&emsp;This projects inspiration came from me trying a new way to stay organized by using a to-do list. I first tried to have a physical to-do list where I had a notepad and would write what I had to do. However, I don't like writting too much and my handwritting is not very good. So I then decided to try and use the note pad on my phone/computer. This was much better but I didn't like the feel of it and I didn't like how it looked. That's when I got the idea that I could just make my own using what I knew at the time in Java as this program was made in the summer leading up to my sophmore year of college. Personally I used this a good bit and it was a lot more engaging then other to do list apps as I made it and if I didn't like something or if I wanted to have a new feature I could make those changes right away.
 
 <h2><em>⚙️ How it works ⚙️</em></h2>
 
